@@ -1,0 +1,41 @@
+Disciplina;ISBN;T�tulo;Autor;Edi�o;Cidade;Editora;Ano;Bibliografia b�sica
+ORGANIZA�O DE COMPUTADORES;978-8535235852;Organiza�o e projeto de computadores: a interface hardware/software;David A. Patterson, John Hennessy;4;Rio de Janeiro;Elsevier;2013;S
+ORGANIZA�O DE COMPUTADORES;978-8576055648;Arquitetura e organiza�o de computadores;William Stallings;8;S�o Paulo;Pearson;2009;S
+ORGANIZA�O DE COMPUTADORES;978-8576050674;Organiza�o Estruturada de Computadores;Andrew S. Tanenbaum;5;S�o Paulo;Pearson;2011;S
+ORGANIZA�O DE COMPUTADORES;978-8521616603;Arquitetura de computadores;Jos� Delgado, Carlos Ribeiro;2;Rio de Janeiro;LTC;2009;N
+ORGANIZA�O DE COMPUTADORES;978-8577803095;Arquiteturas paralelas;C�sar A. F. De Rose, Philippe O. A. Navaux;1;Porto Alegre;Bookman;2008;N
+ORGANIZA�O DE COMPUTADORES;978-8521615439;Introdu�o � organiza�o de computadores;Mario A. Monteiro;5;Rio de Janeiro;LTC;2007;N
+ORGANIZA�O DE COMPUTADORES;978-8577260256;Arquitetura de computadores: de microprocessadores a supercomputadores;Behrooz Parhami;1;S�o Paulo;McGraw-Hill;2007;N
+ORGANIZA�O DE COMPUTADORES;978-8535223552;Arquitetura de computadores: uma abordagem quantitativa;John L. Hennessy, David A. Patterson;4;Rio de Janeiro;Elsevier;2008;N
+PROJETO E AN�LISE DE ALGORITMOS I;978-8536303031;Projeto de algoritmos: fundamentos, an�lise e exemplos da internet;Michael T. Goodrich;1;Porto Alegre;Bookman;2004;S
+PROJETO E AN�LISE DE ALGORITMOS I;978-0262033848;Introduction to algorithms;Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein;3;Cambridge;The MIT Press;2009;S
+PROJETO E AN�LISE DE ALGORITMOS I;978-8540701380;Complexidade de algoritmos;Laira Vieira Toscani, Paulo A. S. Veloso;3;Porto Alegre;Bookman;2012;S
+PROJETO E AN�LISE DE ALGORITMOS I;978-0132316811;Introduction to the Design and Analysis of Algorithms;Anany V. Levitin;1;New York;Addison-Wesley;2002;N
+PROJETO E AN�LISE DE ALGORITMOS I;978-0201120370;Introduction to Algorithms: A Creative Approach;Udi Manber;1;New York;Addison-Wesley;1989;N
+PROJETO E AN�LISE DE ALGORITMOS I;978-0486402581;Combinatorial Optimization: Algorithms and Complexity;Christos H. Papadimitriou, Kenneth Steiglitz;1;Mineola;Dover;1998;N
+PROJETO E AN�LISE DE ALGORITMOS I;978-0486485829;A Practical Introduction to Data Structures and Algorithm Analysis;Clifford A. Shaffer;3;Mineola;Dover;2011;N
+PROJETO E AN�LISE DE ALGORITMOS I;978-0201314526;Algorithms in C, parts 1-4: fundamentals, data structures, sorting, searching;Robert Sedgewick;3;Boston;Addison-Wesley;1997;N
+ESTRUTURA DE DADOS I;978-0470383278;Data Structures and Algorithms in C++;Michael T. Goodrich, Roberto Tamassia, David M. Mount;2;Hoboken;Wiley;2011;S
+ESTRUTURA DE DADOS I;978-8521617501;Estruturas de Dados e seus Algoritmos;Jayme Luiz Szwarcfiter, Lilian Markenzon;3;Rio de Janeiro;LTC;2010;S
+ESTRUTURA DE DADOS I;978-8522105250;Projeto de Algoritmos: Com Implementa�es em Java e C++;Nivio Ziviani;1;S�o Paulo;Cengage Learning;2006;S
+ESTRUTURA DE DADOS I;978-8576058816;Estrutura de dados: algoritmos, an�lise da complexidade e implementa�es em Java e C/C++;Ana Fernanda Gomes Ascencio, Graziela Santos de Ara�jo;1;S�o Paulo;Pearson;2010;N
+ESTRUTURA DE DADOS I;978-0262033848;Introduction to algorithms;Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein;3;Cambridge;The MIT Press;2009;N
+ESTRUTURA DE DADOS I;978-8535232493;Algoritmos em linguagem C;Paulo Feofiloff;1;Rio de Janeiro;Elsevier;2009;N
+ESTRUTURA DE DADOS I;978-8576052074;L�gica de programa�o e estrutura de dados: com aplica�es em Java;Sandra Puga, Gerson Rissetti;2;S�o Paulo;Pearson;2008;N
+ESTRUTURA DE DADOS I;978-8570017994;Estruturas de dados: conceitos e t�cnicas de implementa�o;Marcos Vianna Villas, Andr�a Gomes de Mattos Ferreira, Patrick Georges Leroy, Claudio Miranda, Christine Lef�vre Bockman;12;Rio de Janeiro;Campus;1993;N
+BANCOS DE DADOS;978-8579360855;Sistemas de Banco de Dados;Ramez Elmasri, Shamkant B. Navathe;6;S�o Paulo;Pearson;2010;S
+BANCOS DE DADOS;978-8535245356;Sistema de Banco de Dados;Abraham Silberschatz, Henry F. Korth, S. Sudarshan;6;Rio de Janeiro;Elsevier;2012;S
+BANCOS DE DADOS;978-0071629188;OCA/OCP Oracle Database 11g all-in-one Exam Guide;John Watson, Roopesh Ramklass;1;Chicago;McGraw-Hill;2009;S
+BANCOS DE DADOS;978-0470889404;Practical Database Programming with Java;Ying Bai;1;Hoboken;Wiley;2011;N
+BANCOS DE DADOS;978-8535212730;Introdu�o a sistemas de banco de dados;C. J. Date;1;Rio de Janeiro;Elsevier;2004;N
+BANCOS DE DADOS;978-8587053893;Banco de Dados: princ�pios e pr�tica;Luciano Frontino De Medeiros;1;Curitiba;Ibpex;2007;N
+BANCOS DE DADOS;978-8581435329;Banco de Dados: implementa�o em SQL, PL/SQL e Oracle 11g;Sandra Puga, Edson Fran�a, Milton Goya;1;S�o Paulo;Pearson;2013;N
+BANCOS DE DADOS;978-8577260270;Sistemas de Gerenciamento de Banco de Dados;Raghu Ramakrishnan, Johannes Gehrke;3;S�o Paulo;McGraw-Hill;2007;N
+MODELAGEM MATEM�TICA I;978-1285050904;A First Course in Mathematical Modeling;Frank R. Giordano, William P. Fox, Steven B. Horton;5;New York;Brooks Cole;2013;S
+MODELAGEM MATEM�TICA I;978-0123869128;Mathematical Modeling;Mark M. Meerschaert;4;New York;Academic Press;2013;S
+MODELAGEM MATEM�TICA I;978-3642302923;A Primer on Scientific Programming with Python;Hans Petter Langtangen;3;New York;Springer;2012;S
+MODELAGEM MATEM�TICA I;978-1785280429;Python Data Science Fundamentals;Alberto Boschetti, Luca Massaron;1;New York;Packt Publishing;2015;N
+MODELAGEM MATEM�TICA I;978-1498712033;Introduction to Computational Models with Python;Jos� M. Garrido;1;New York;Chapman & Hall;2015;N
+MODELAGEM MATEM�TICA I;978-0691170503;A Students Guide to Python for Physical Modeling;Jesse M. Kinder, Philip Nelson;1;Princeton;Princeton University Press;2015;N
+MODELAGEM MATEM�TICA I;978-3527413157;Computational Physics: Problem Solving with Python;Rubin H. Landau, Manuel Jos� P�ez, Cristian C. Bordeianu;3;New York;Wiley;2015;N
+MODELAGEM MATEM�TICA I;978-1439850886;A First Course in Differential Equations, Modeling and Simulation;Carlos A. Smith, Scott W. Campbell;1;New York;CRC Press;2011;N
