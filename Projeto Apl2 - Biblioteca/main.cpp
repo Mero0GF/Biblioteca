@@ -1,5 +1,5 @@
-// Lucas Goulart de Farias Meres - 42127459
-// Thiago Leandro Liporace - 42128481
+// Lucas Goulart de Farias Meres 
+// Thiago Leandro Liporace 
 
 //Referências: Trabalho Lista Circular Duplamente Encadeada, PDFs disponibilizados no moodle, alphacodingskills.com e StackOverflow para aprender como ler arquivos em C++.
 
